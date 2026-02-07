@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フジヤマディスコ（FUJIYAMA DISCO）",
+  "base_artist": "SILENT SIREN",
+  "createdAt": "2026-02-07T17:35:03.206933Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フジヤマディスコ",
+      "artist": "SILENT SIREN",
+      "has_synced": false,
+      "path": "select/pl_01_フジヤマディスコ_SILENT_SIREN.txt"
+    }
+  ]
+}
